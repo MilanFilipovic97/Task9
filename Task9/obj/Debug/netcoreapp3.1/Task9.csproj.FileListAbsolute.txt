@@ -1,0 +1,12 @@
+C:\Users\Korisnik\Desktop\console app\9\Task9\Task9\bin\Debug\netcoreapp3.1\Task9.exe
+C:\Users\Korisnik\Desktop\console app\9\Task9\Task9\bin\Debug\netcoreapp3.1\Task9.deps.json
+C:\Users\Korisnik\Desktop\console app\9\Task9\Task9\bin\Debug\netcoreapp3.1\Task9.runtimeconfig.json
+C:\Users\Korisnik\Desktop\console app\9\Task9\Task9\bin\Debug\netcoreapp3.1\Task9.runtimeconfig.dev.json
+C:\Users\Korisnik\Desktop\console app\9\Task9\Task9\bin\Debug\netcoreapp3.1\Task9.dll
+C:\Users\Korisnik\Desktop\console app\9\Task9\Task9\bin\Debug\netcoreapp3.1\Task9.pdb
+C:\Users\Korisnik\Desktop\console app\9\Task9\Task9\obj\Debug\netcoreapp3.1\Task9.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\console app\9\Task9\Task9\obj\Debug\netcoreapp3.1\Task9.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\console app\9\Task9\Task9\obj\Debug\netcoreapp3.1\Task9.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\console app\9\Task9\Task9\obj\Debug\netcoreapp3.1\Task9.dll
+C:\Users\Korisnik\Desktop\console app\9\Task9\Task9\obj\Debug\netcoreapp3.1\Task9.pdb
+C:\Users\Korisnik\Desktop\console app\9\Task9\Task9\obj\Debug\netcoreapp3.1\Task9.genruntimeconfig.cache
